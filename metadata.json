@@ -1,0 +1,6 @@
+{
+  "name": "Said Share",
+  "description": "Fast, private local Wi-Fi file sharing between Android phones and Windows PC browsers without cloud or internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
